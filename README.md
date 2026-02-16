@@ -12,6 +12,11 @@ This project uses:
 
 ---
 
+## Preview
+![alt text](image.png)
+
+---
+
 ## 🚀 Features
 
 * 🔗 Input any blog URL
