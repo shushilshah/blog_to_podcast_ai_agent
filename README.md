@@ -153,7 +153,7 @@ blog-to-podcast/
 
 Pull requests are welcome.
 For major changes, please open an issue first to discuss what you would like to improve.
-
+or you can reach out to me if needed.
 ---
 
 ## 📜 License
@@ -171,5 +171,3 @@ MIT License
 * Agno Framework
 
 ---
-
-Made with ❤️ using AI.
